@@ -1,1 +1,3 @@
-x=msgbox("Are You Sure You Want To Run It,If You Have Epilepsy you Shouldnt Use This" ,0, "Ra84")
+x=msgbox("Are You Sure You Want To Run It,If You Have Epilepsy you Shouldnt Use This,Press OK If You Want To Run This" ,0, "Ra84") 
+
+x=msgbox("To Make It Work You Need To Have Python 3 And You Must Install pywin32 To Run It Properly" ,0, "Ra84")
