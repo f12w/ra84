@@ -3,7 +3,7 @@ What happens in the computer is not my fault so test it on a vm
 # it uses bat,vbs,Python
 BAT Usage:Makes the system unusable by commands,payloads
 VBS Usage:Payloads,spam internet explorer windows with a picture
-Python Usage:Graphical Payloads
+Python Usage:Graphical Payloads,Plays A Video
 # What it Does:
 Destroys the system
 Spreads around the victims computer
