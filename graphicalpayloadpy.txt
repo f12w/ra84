@@ -1,0 +1,22 @@
+from win32gui import *
+from win32ui import *
+from win32api import *
+import time
+
+hwnd = GetDesktopWindow()
+hdc2 = GetWindowDC()
+x2 = GetSystemMetrics(0)
+y2 = GetSystemMetrics(0)
+
+def tunnel_effect():
+for i in range (0, 50):
+        StrechBlt(hdc2, 25, 25, x2 - 50, hdc2, 0, 0, x2, y2, 0x00cc002
+def patinvert():
+    for i in range(0, 7):
+        PatBlt(hdc2, 0, 0, x2, y2, 5898313)
+        time.sleep(2)
+
+
+
+tunnel_effect()
+patinvert()
