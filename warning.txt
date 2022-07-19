@@ -1,1 +1,1 @@
-x=msgbox("Your Text Here" ,0, "Your Title Here")
+x=msgbox("Are You Sure You Want To Run It,If You Have Epilepsy you Shouldnt Use This" ,0, "Ra84")
