@@ -1,1 +1,1 @@
-x=msgbox("To Make It Work You Need To Have Python 3 And You Must Install pywin32 To Run It Properly" ,0, "Ra84")
+x=msgbox("To Make It Work You Need To Have Python 3 And You Must Install pywin32,vlc,pafy or time if not automaticly installed To Run It Properly" ,0, "Ra84")
