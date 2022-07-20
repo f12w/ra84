@@ -1,0 +1,13 @@
+Set objExplorer = CreateObject("InternetExplorer.Application")
+With objExplorer
+    .Navigate "about:blank"
+    .Visible = 1
+    .Document.Title = "Show Image"
+    .Toolbar=False
+    .Statusbar=False
+    .Top=400
+    .Left=474
+    .Height=600
+    .Width=600
+    .Document.Body.InnerHTML = "<img src='https://tse4.mm.bing.net/th?id=OIP.itG3E_hI7gTeNLUdW4-lFQHaHa&pid=Api&P=0'>"
+End With
