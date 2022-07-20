@@ -1,1 +1,1 @@
-x=msgbox("Are You Sure You Want To Run It,If You Have Epilepsy you Shouldnt Use This,Press OK If You Want To Run This" ,0, "Ra84") 
+x=msgbox("Are You Sure You Want To Run It,If You Have Epilepsy you Shouldnt Use This you cant escape this for some unfixable reason,Press OK If You Want To Run This" ,0, "Ra84") 
